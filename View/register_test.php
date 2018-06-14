@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include_once "header.php"; ?>
+<?php include_once "header2.php"; ?>
 
 <body>
 
