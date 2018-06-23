@@ -1,5 +1,5 @@
 <head>
-    <link type="text/css" rel="stylesheet" href="../Resources/css/style_test.css">
+    <link type="text/css" rel="stylesheet" href="../Resources/css/index.css">
 </head>
 
 <div class="footer">
